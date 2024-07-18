@@ -1,0 +1,1 @@
+The objective of the project is to build a basic recipe website. The website will have links to some recipes.
