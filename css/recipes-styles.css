@@ -1,0 +1,26 @@
+body
+{
+    font-family: verdana, "New Times Roman", sans-serif;
+    background-color: lightblue;
+}
+
+h1
+{
+    color: crimson;
+}
+
+h2
+{
+    color: deeppink;
+}
+
+.img-recipe
+{
+    height: auto;
+    width: 250px;
+}
+
+.steps
+{
+    text-align: justify;
+}
